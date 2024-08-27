@@ -7,4 +7,4 @@ My github username is:
 
 marlena-ames
 
-BL-MSCH-C220
+## I have installed the software on my computer as a part of the exercise
